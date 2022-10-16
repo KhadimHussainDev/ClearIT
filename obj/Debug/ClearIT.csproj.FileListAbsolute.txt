@@ -1,0 +1,22 @@
+E:\2nd Semester\Projects In C#\ClearIT\obj\Debug\ClearIT.csproj.AssemblyReference.cache
+E:\2nd Semester\Projects In C#\ClearIT\obj\Debug\ClearIT.csproj.SuggestedBindingRedirects.cache
+E:\2nd Semester\Projects In C#\ClearIT\obj\Debug\ClearIT.csproj.CoreCompileInputs.cache
+E:\2nd Semester\Projects In C#\ClearIT\bin\Debug\ClearIT.exe.config
+E:\2nd Semester\Projects In C#\ClearIT\bin\Debug\ClearIT.exe
+E:\2nd Semester\Projects In C#\ClearIT\bin\Debug\ClearIT.pdb
+E:\2nd Semester\Projects In C#\ClearIT\bin\Debug\EZInput.dll
+E:\2nd Semester\Projects In C#\ClearIT\bin\Debug\EZInput.xml
+E:\2nd Semester\Projects In C#\ClearIT\obj\Debug\ClearIT.csproj.CopyComplete
+E:\2nd Semester\Projects In C#\ClearIT\obj\Debug\ClearIT.exe
+E:\2nd Semester\Projects In C#\ClearIT\obj\Debug\ClearIT.pdb
+C:\Users\Khadim Hussain\Desktop\ClearIT\bin\Debug\ClearIT.exe.config
+C:\Users\Khadim Hussain\Desktop\ClearIT\bin\Debug\ClearIT.exe
+C:\Users\Khadim Hussain\Desktop\ClearIT\bin\Debug\ClearIT.pdb
+C:\Users\Khadim Hussain\Desktop\ClearIT\bin\Debug\EZInput.dll
+C:\Users\Khadim Hussain\Desktop\ClearIT\bin\Debug\EZInput.xml
+C:\Users\Khadim Hussain\Desktop\ClearIT\obj\Debug\ClearIT.csproj.AssemblyReference.cache
+C:\Users\Khadim Hussain\Desktop\ClearIT\obj\Debug\ClearIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khadim Hussain\Desktop\ClearIT\obj\Debug\ClearIT.csproj.CoreCompileInputs.cache
+C:\Users\Khadim Hussain\Desktop\ClearIT\obj\Debug\ClearIT.csproj.CopyComplete
+C:\Users\Khadim Hussain\Desktop\ClearIT\obj\Debug\ClearIT.exe
+C:\Users\Khadim Hussain\Desktop\ClearIT\obj\Debug\ClearIT.pdb
